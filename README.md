@@ -22,10 +22,6 @@
 ### 📊 **GitHub & LeetCode Stats**
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/user5402eu?theme=dark&ext=heatmap" alt="LeetCode Stats" width="400">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prabhaM07&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
 </div>
 
