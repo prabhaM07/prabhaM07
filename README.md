@@ -75,7 +75,7 @@
 
 ---
 
-### ✨ **Fun Animation**
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" height="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3MWQ1ODhhMDVlZjUzM2Y3NzlkMTg3ZDZjYmQ5YjE5YTY2NjY4YyZjdD1n/giphy.gif" alt="Girl Working Animation" width="500" height="300">
 </div>
+
