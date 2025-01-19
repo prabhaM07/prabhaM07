@@ -9,8 +9,8 @@
     
     ### 📊 **GitHub & LeetCode Stats**
     <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
-      <img src="https://leetcard.jacoblin.cool/user5402eu?theme=dark&ext=heatmap" alt="LeetCode Stats" width="400">
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true)
+      ![LeetCode Stats](https://leetcard.jacoblin.cool/user5402eu?theme=dark&ext=heatmap)
     </div>
     
     ### 👩‍💻 **About Me**
