@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E6E6FA,87CEEB,90EE90,B0B0B0&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Cloud+Computing+Explorer;Always+learning+and+growing!" alt="Typing Animation">
 </p>
 
----
 
 ### 👩‍💻 **About Me**
 - 🔭 **I’m currently working on:** **RAG Implementation using AWS Services**
@@ -17,7 +16,6 @@
 - 📄 **Know about my experiences:** [Resume](https://www.linkedin.com/in/prabha06)
 - ⚡ **Fun fact:** "I once built an ML model to detect emotions, and it identified me as *funny*! 🤖"
 
----
 
 ### 📊 **GitHub & LeetCode Stats**
 <div align="center">
@@ -25,7 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
 </div>
 
----
 
 ### 🛠️ **Languages and Tools**
 <p align="center">
@@ -55,7 +52,6 @@
   </a>
 </p>
 
----
 
 ### 🌐 **Connect with Me**
 <p align="center">
@@ -70,7 +66,6 @@
   </a>
 </p>
 
----
 
 <div align="center">
   <img src="https://lottie.host/your-animation-link/your-animation-id.json" alt="Working Girl Animation" width="500" height="300">
