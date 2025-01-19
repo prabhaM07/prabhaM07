@@ -26,17 +26,15 @@
 
 ## 🔥 **GitHub Stats**  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=prabhaM07&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
 ## 🚀 **LeetCode Journey**  
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/your-username?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/user5402eU?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 🧩 **Max Rating:** `1411`  
@@ -45,46 +43,10 @@
 
 ---
 
-## 🏆 **Achievements**  
-
-- 🥇 **SIH 2024 Finalist**: Micro-Doppler Target Classification  
-- 🥈 **2nd Place @ V-PRAYUKTI 24 ML Hackathon**: Environmental Chatbot  
-- 🏅 **2nd Place @ SECE Mini Project Expo**: Parkinson Disease Prediction  
-- 🎖️ **Finalist @ Intellina Ideathon (CIT)**  
-- 🥉 **3rd Place @ SECE Mini Project Expo**: Quiz Generation  
-
----
-
-## 🌟 **Highlighted Projects**  
-
-### 🎤 **Voice Emotion Detection**  
-- 💬 Recognized emotions from voice using **MFCC** and **LSTM**.  
-- 🚀 **Accuracy:** 99%  
-- 🔧 **Tech Stack:** Python, Streamlit, Deep Learning  
-
-### 🏠 **ETL Workflow for Real Estate Data**  
-- ⚙️ Built a scalable pipeline for real estate data processing using **AWS EMR** and **Spark**.  
-- 📊 Ensured efficient extraction and transformation of large datasets.  
-
-### 🕊️ **Micro-Doppler Based Target Classification**  
-- 🌌 Classified drones and birds using **Continuous Wavelet Transformations** and **Random Forest**.  
-- 💻 **Tech Stack:** TensorFlow, Machine Learning  
-
----
-
-## 📜 **Certifications**  
-
-🎓 **Machine Learning for Engineering and Science Applications** – NPTEL (IIT-Madras)  
-🎓 **Data Science and Machine Learning** – Udemy  
-🎓 **Java Programming (Beginner to Advanced)** – Udemy  
-🎓 **Python Programming** – Udemy  
-
----
-
 ## 📬 **Connect With Me**  
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/prabha06"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:prabha.m2022ai-ds@sece.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
