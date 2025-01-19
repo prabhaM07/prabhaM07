@@ -73,6 +73,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3MWQ1ODhhMDVlZjUzM2Y3NzlkMTg3ZDZjYmQ5YjE5YTY2NjY4YyZjdD1n/giphy.gif" alt="Girl Working Animation" width="500" height="300">
+  <img src="https://lottie.host/your-animation-link/your-animation-id.json" alt="Working Girl Animation" width="500" height="300">
 </div>
 
