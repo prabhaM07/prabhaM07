@@ -68,9 +68,6 @@
   <a href="https://www.leetcode.com/user5402eu" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="[https://www.hackerrank.com/prabha_m2022ai_1](https://www.hackerrank.com/profile/prabha_m2022ai_1)" target="blank">
-    <img src="https://img.shields.io/badge/Hackerearth-323754?style=for-the-badge&logo=hackerearth&logoColor=grenn" alt="Hackerank" />
-  </a>
 </p>
 
 ---
