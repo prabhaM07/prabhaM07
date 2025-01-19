@@ -2,7 +2,7 @@
 <h3 align="center">🌩️ A Cloud Enthusiast and ML Innovator 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Cloud+Computing+Explorer;Always+learning+and+growing!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E6E6FA,87CEEB,90EE90,B0B0B0&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Cloud+Computing+Explorer;Always+learning+and+growing!" alt="Typing Animation">
 </p>
 
 ---
