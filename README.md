@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Prabha</h1>
-<h3 align="center">🌩️ A Cloud Enthusiast and ML Innovator 🚀</h3>
+<h1 align="left">Hi 👋, I'm Prabha</h1>
+<h3 align="left">🌩️ A Cloud Enthusiast and ML Innovator 🚀</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E6E6FA,87CEEB,90EE90,B0B0B0&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Cloud+Computing+Explorer;Always+learning+and+growing!" alt="Typing Animation">
 </p>
 
----
-
 ### 📊 **GitHub & LeetCode Stats**
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
   <img src="https://leetcard.jacoblin.cool/user5402eu?theme=dark&ext=heatmap" alt="LeetCode Stats" width="400">
 </div>
-
----
 
 ### 👩‍💻 **About Me**
 - 🔭 **I’m currently working on:** **RAG Implementation using AWS Services**
@@ -25,10 +21,8 @@
 - 📄 **Know about my experiences:** [Resume](https://www.linkedin.com/in/prabha06)
 - ⚡ **Fun fact:** "I once built an ML model to detect emotions, and it identified me as *funny*! 🤖"
 
----
-
 ### 🛠️ **Languages and Tools**
-<p align="center">
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60" />
   </a>
@@ -55,10 +49,8 @@
   </a>
 </p>
 
----
-
 ### 🌐 **Connect with Me**
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/prabha06" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -70,8 +62,6 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://lottie.host/your-animation-link/your-animation-id.json" alt="Working Girl Animation" width="500" height="300">
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" height="300">
 </div>
