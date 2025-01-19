@@ -68,5 +68,6 @@
 
 
 <div align="center">
-  <img src="https://lottie.host/your-animation-link/your-animation-id.json" alt="Working Girl Animation" width="500" height="300">
+  <img src="https://assets5.lottiefiles.com/packages/lf20_2bzs3lzt.json" alt="Working Person Animation" width="500" height="300">
 </div>
+
