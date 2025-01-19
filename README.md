@@ -1,12 +1,12 @@
-<h1 align="left">Hi 👋, I'm Prabha</h1>
-<h3 align="left">🌩️ A Cloud Enthusiast and ML Innovator 🚀</h3>
+<h1 align="center">Hi 👋, I'm Prabha</h1>
+<h3 align="center">🌩️ A Cloud Enthusiast and ML Innovator 🚀</h3>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E6E6FA,87CEEB,90EE90,B0B0B0&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Cloud+Computing+Explorer;Always+learning+and+growing!" alt="Typing Animation">
 </p>
 
 ### 📊 **GitHub & LeetCode Stats**
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
   <img src="https://leetcard.jacoblin.cool/user5402eu?theme=dark&ext=heatmap" alt="LeetCode Stats" width="400">
 </div>
@@ -22,7 +22,7 @@
 - ⚡ **Fun fact:** "I once built an ML model to detect emotions, and it identified me as *funny*! 🤖"
 
 ### 🛠️ **Languages and Tools**
-<p align="left">
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60" />
   </a>
