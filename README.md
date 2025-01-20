@@ -14,7 +14,7 @@
   🔗 **LinkedIn:** [www.linkedin.com/in/prabha06](https://www.linkedin.com/in/prabha06)
 - 📄 **Know about my experiences:** [Resume](https://www.linkedin.com/in/prabha06)
 - ⚡ **Fun fact:** "I once built an ML model to detect emotions, and it identified me as *funny*! 🤖"
-- 
+  
 ### 📊 **GitHub & LeetCode Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhaM07&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150">
