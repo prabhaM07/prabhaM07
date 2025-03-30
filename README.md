@@ -8,7 +8,7 @@
 ### 👩‍💻 **About Me**
 - 🔭 **I’m currently working on:** **RAG Implementation using AWS Services**
 - 🌱 **I’m currently learning:** **AWS Cloud Practitioner**
-- 💬 **Ask me about:** **Machine Learning, Data Structures**
+- 💬 **Ask me about:** **Machine Learning, Data Structures, Oops**
 - 📫 **How to reach me:**  
   📧 **Email:** [prabhamuruganantham06@gmail.com](mailto:prabhamuruganantham06@gmail.com)  
   🔗 **LinkedIn:** [www.linkedin.com/in/prabha06](https://www.linkedin.com/in/prabha06)
