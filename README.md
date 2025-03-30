@@ -10,7 +10,7 @@
 - 🌱 **I’m currently learning:** **AWS Machine Learning Associate**
 - 💬 **Ask me about:** **Machine Learning, Data Structures**
 - 📫 **How to reach me:**  
-  📧 **Email:** [prabha.m2022ai-ds@sece.ac.in](mailto:prabha.m2022ai-ds@sece.ac.in)  
+  📧 **Email:** [prabhamuruganantham06@gmail.com](mailto:prabhamuruganantham06@gmail.com)  
   🔗 **LinkedIn:** [www.linkedin.com/in/prabha06](https://www.linkedin.com/in/prabha06)
 - 📄 **Know about my experiences:** [Resume](https://www.linkedin.com/in/prabha06)
 - ⚡ **Fun fact:** "I once built an ML model to detect emotions, and it identified me as *funny*! 🤖"
