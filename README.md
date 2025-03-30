@@ -48,7 +48,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
   </a>
 </p>
-
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" height="300">
+</div>
 ### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://linkedin.com/in/prabha06" target="blank">
@@ -57,11 +59,9 @@
   <a href="https://kaggle.com/mprabha" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.leetcode.com/user5402eu" target="blank">
+  <a href="https://leetcode.com/u/Prabha_16/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" height="300">
-</div>
+
