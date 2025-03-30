@@ -12,7 +12,7 @@
 - 📫 **How to reach me:**  
   📧 **Email:** [prabhamuruganantham06@gmail.com](mailto:prabhamuruganantham06@gmail.com)  
   🔗 **LinkedIn:** [www.linkedin.com/in/prabha06](https://www.linkedin.com/in/prabha06)
-- 📄 **Know about my experiences:** [Resume](https://www.linkedin.com/in/prabha06)
+- 📄 **Know about my experiences:** [Resume](https://drive.google.com/file/d/1APmdULqvtSt6NnlV1pCzvrHDUUDJKtcb/view?usp=sharing)
 - ⚡ **Fun fact:** "I once built an ML model to detect emotions, and it identified me as *funny*! 🤖"
   
 ### 📊 **GitHub & LeetCode Stats**
