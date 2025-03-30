@@ -48,10 +48,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" />
   </a>
 </p>
+
+### 🌐 **Connect with Me**
 <div align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500" height="300">
 </div>
-### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://linkedin.com/in/prabha06" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
